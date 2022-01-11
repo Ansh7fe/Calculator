@@ -7,8 +7,7 @@ body{
     font-family: 'Raleway', sans-serif;;
 }
 .container{
-    /* border: 2px solid blue; */
-    background-color: #97D9E1;
+    background-color:#FEFEFE ;
     width: 70%;
     margin: auto;
 }
@@ -20,7 +19,7 @@ body{
     margin: auto;
     text-align: center;
     border-radius: 15px;
-    background: #FEFEFE;
+    background: #97D9E1;
 }
 .screen-display{
    border-radius: 10px ;
