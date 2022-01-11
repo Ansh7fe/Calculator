@@ -12,7 +12,7 @@ for(item of buttons){
            display.value=screenValue ;
        }
        if(buttonTxt÷'){
-           buttonTxt="/";
+           buttonTxt='/';
            screenValue+=buttonTxt;
            display.value=screenValue ;
        }
