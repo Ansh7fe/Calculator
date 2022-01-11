@@ -11,7 +11,7 @@ for(item of buttons){
            screenValue+=buttonTxt;
            display.value=screenValue ;
        }
-       if(buttonTxt÷'){
+       if(buttonTxt=='÷'){
            buttonTxt='/';
            screenValue+=buttonTxt;
            display.value=screenValue ;
