@@ -11,6 +11,11 @@ for(item of buttons){
            screenValue+=buttonTxt;
            display.value=screenValue ;
        }
+       if(buttonTxt÷'){
+           buttonTxt="/";
+           screenValue+=buttonTxt;
+           display.value=screenValue ;
+       }
        else if(buttonTxt=='C'){
            screenValue=""
            display.value=screenValue;
