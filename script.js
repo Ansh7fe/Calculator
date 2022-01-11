@@ -20,7 +20,7 @@ for(item of buttons){
        }
        else{
         screenValue+=buttonTxt;
-        display.value=(screenValue) ;
+        display.value=screenValue ;
        }
    })
 }
